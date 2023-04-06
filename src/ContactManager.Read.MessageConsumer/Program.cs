@@ -1,5 +1,5 @@
 using ContactManager.Infrastructure;
-using ContactManager.Read.MessageConsumer.MessageHandlers;
+using ContactManager.Read.MessageConsumer;
 
 var builder = WebApplication.CreateBuilder(args);
 

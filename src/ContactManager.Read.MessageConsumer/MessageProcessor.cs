@@ -3,7 +3,7 @@ using ContactManager.Infrastructure.Messaging;
 using ContactManager.Infrastructure.Messaging.Consumer;
 using ContactManager.Infrastructure.Messaging.Contacts;
 
-namespace ContactManager.Read.MessageConsumer.MessageHandlers
+namespace ContactManager.Read.MessageConsumer
 {
     public class MessageProcessor : IMessageProcessor
     {
